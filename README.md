@@ -1,6 +1,6 @@
 <!-- Header Section -->
 ---
-<h1 align="center">🚀 Hi, I'm <a href="https://github.com/Amankanojiya27/Portfolio">Aman Kanojiya</a></h1>
+<h1 align="center">Hello, I'm <a href="https://github.com/Amankanojiya27/Portfolio">Aman Kanojiya</a></h1>
 <h3 align="center">Experience in Full-Stack Engineer | Architecting High-Scale Business & Enterprise Software</h3>
 
 <p align="center">
