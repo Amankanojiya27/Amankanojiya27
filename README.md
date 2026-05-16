@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">🚀 Hi, I'm <a href="https://github.com/Amankanojiya27/Portfolio">Aman Kanojiya</a></h1>
-<h3 align="center">Full-Stack Engineer | Architecting High-Scale Business & Enterprise Software</h3>
+<h3 align="center">Experience in Full-Stack Engineer | Architecting High-Scale Business & Enterprise Software</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=600&color=00C2FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%7C+Next.js+%7C+MERN;Building+Scalable+Enterprise+ERPs+%26+CRMs;Hybrid+Shopify+%26+Headless+E-commerce+Architect;Optimizing+Workflows+for+Max+Operational+Efficiency" />
