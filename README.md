@@ -1,4 +1,5 @@
 <!-- Header Section -->
+---
 <h1 align="center">🚀 Hi, I'm <a href="https://github.com/Amankanojiya27/Portfolio">Aman Kanojiya</a></h1>
 <h3 align="center">Experience in Full-Stack Engineer | Architecting High-Scale Business & Enterprise Software</h3>
 
@@ -47,6 +48,9 @@ I bridge the gap between complex operational bottlenecks and high-performance en
 ---
 
 # 📈 GitHub Analytics
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Amankanojiya27&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=7&rank=A,B,C,S,SS,SSS" />
+</p>
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
@@ -57,16 +61,6 @@ I bridge the gap between complex operational bottlenecks and high-performance en
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amankanojiya27&theme=tokyo-night&hide_border=true" height="125" />
     </td>
   </tr>
-    <!--
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.shion.dev/api?username=Amankanojiya27&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="125"/>
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=Amankanojiya27&theme=tokyonight&hide_border=false" height="125"/>
-    </td>
-  </tr>
-    -->
 </table>
 
 ---
