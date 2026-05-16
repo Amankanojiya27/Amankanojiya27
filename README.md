@@ -8,8 +8,8 @@ MERN Stack Developer | Next.js Developer | TypeScript Enthusiast
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+MongoDB+%7C+Express.js;Building+Modern+Responsive+Web+Apps;Always+Learning+New+Technologies" />
 </p>
 
----
 <!--
+---
 # 💫 About Me
 
 💻 Passionate Full Stack MERN Developer from Delhi  
@@ -19,8 +19,8 @@ MERN Stack Developer | Next.js Developer | TypeScript Enthusiast
 🛠️ Love working with React, Next.js, TypeScript, Node.js & MongoDB  
 📚 Always exploring new technologies and improving problem-solving skills  
 🎯 Goal: Become a professional Full Stack Developer & build impactful products
--->
 ---
+-->
 
 <!--# 🌐 Connect With Me
 
@@ -41,9 +41,9 @@ MERN Stack Developer | Next.js Developer | TypeScript Enthusiast
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 </p>
+---
 -->
 
----
 
 # 🚀 Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
