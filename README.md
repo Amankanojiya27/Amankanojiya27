@@ -49,7 +49,7 @@ I bridge the gap between complex operational bottlenecks and high-performance en
 
 # 📈 GitHub Analytics
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amankanojiya27&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=7&rank=A,B,C,S,SS,SSS" />
+  <img src="https://onrender.com/?username=Amankanojiya27&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=7&rank=A,B,C,S,SS,SSS" />
 </p>
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
