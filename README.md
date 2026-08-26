@@ -58,7 +58,11 @@ I bridge the gap between complex operational bottlenecks and high-performance en
        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Amankanojiya27&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="125"/>
     </td>
     <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amankanojiya27&theme=tokyo-night&hide_border=true" height="125" />
+      <img
+        src="https://raw.githubusercontent.com/Amankanojiya27/Amankanojiya27/output/activity-graph.svg"
+        height="125"
+        alt="GitHub Activity Graph"
+      />
     </td>
   </tr>
 </table>
