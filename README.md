@@ -52,7 +52,7 @@ I bridge the gap between complex operational bottlenecks and high-performance en
   <img src="https://github-profile-trophy-unserori.vercel.app/?username=Amankanojiya27&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=7&rank=A,B,C,S,SS,SSS" />
 </p>
 
-<table align="" border="0" cellpadding="0" cellspacing="0">
+<!-- <table align="" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td>
        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Amankanojiya27&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="125"/>
@@ -65,6 +65,6 @@ I bridge the gap between complex operational bottlenecks and high-performance en
       />
     </td>
   </tr>
-</table>
+</table> -->
 
 ---
